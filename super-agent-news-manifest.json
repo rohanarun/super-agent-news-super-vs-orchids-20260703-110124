@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[bbc.com](https://www.bbc.com)",
+    "[tradingview.com](https://www.tradingview.com)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[nevo.systems](https://nevo.systems/blogs/news/google-gemini-3-computer-use-agentic-vision-tools-gap)",
+    "[blog.google](https://blog.google)",
+    "[machinebrief.com](https://www.machinebrief.com/news/state-of-ai-agents-2026-whats-real-whats-hype)"
+  ],
+  "design_plan": "rng=42;AIDA=pass;hero_lines=2.3;bento_density=grid-auto-flow:dense;label_sweep=all competitors mentioned;button_contrast=black/white verified",
+  "generated_at": "2026-07-03T11:01:31.252462+00:00",
+  "headline": "Super vs Orchids \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair comparison of Super and Orchids for people choosing a personal AI agent. Orchids explores experimental automation and vibe\u2011coding. Super is built for durable computer\u2011use workflows, with agents that operate real desktops and reuse a computer-use cache so repeated work gets faster and cheaper."
+}
